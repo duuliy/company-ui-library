@@ -1,0 +1,5 @@
+*.js
+doc-comps
+components/**/demo
+components/**
+template
